@@ -15,3 +15,6 @@ let countOdds = function (low, high) {
        since the problem specifies that the count should be inclusive.
   return res;
 };
+
+// Notes on approach for next problem:
+// Take more time to think through all the information given and how to define that information in code and math.
